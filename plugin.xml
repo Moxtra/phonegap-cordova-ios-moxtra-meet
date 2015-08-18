@@ -1,5 +1,5 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-           id="com.phonegap.moxtra.meetIntegration"
+           id="com.phonegap.ios.moxtra.meet"
       version="0.1.0">
     <name>MoxtraMeetIntegration</name>
     <description>Moxtra Meet Functionality Integrated</description>
