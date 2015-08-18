@@ -6,7 +6,7 @@
     <license>MIT</license>
     <keywords>phonegap,moxtra,meetIntegration</keywords>
     <author>Ken Yu</author>
-    <repo>https://github.com/ken-yu-mxt/phonegap-cordova-moxtra-meet-plugin</repo>
+    <repo>https://github.com/Moxtra/phonegap-cordova-ios-moxtra-meet</repo>
     
     <engines>
         <engine name="cordova" version=">=3.0.0" />
